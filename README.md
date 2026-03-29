@@ -4,7 +4,7 @@ minecraft modpack developer & homelab tinkerer
 
 **what i do:**
 - 📦 minecraft modpack development
-- 🖥️ self-hosted homelab — Jellyfin, Home Assistant, Docker, and more
+- 🖥️ self-hosted homelab
 - 📖 ttrpg design & writing
 - 🎮 gaming
  ---
