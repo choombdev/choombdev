@@ -2,7 +2,7 @@ hi, i'm choomb 👋
 minecraft modpack developer & homelab tinkerer
 ---
 
-**what i work do:**
+**what i do:**
 - 📦 minecraft modpack development
 - 🖥️ self-hosted homelab — Jellyfin, Home Assistant, Docker, and more
 - 📖 ttrpg design & writing
@@ -11,6 +11,6 @@ minecraft modpack developer & homelab tinkerer
 
 **contacts and such:**
 - 🌐 [choomb.com](https://choomb.com) — everything in one place
-- 🔑 [gpg key](https://github.com/choombdev/choombdev/blob/main/pub_gpg_key)
+- 🔑 [gpg key](https://github.com/choombdev/choombdev/blob/main/pub_gpg_key) (compare edit date to repo creation for safety)
 - 📧 choombdev@gmail.com
 - 💬 discord: choomb
