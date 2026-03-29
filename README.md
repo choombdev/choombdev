@@ -1,16 +1,16 @@
-## Hi there 👋
+hi, i'm choomb 👋
+minecraft modpack developer & homelab tinkerer
+---
 
-<!--
-**choombdev/choombdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**what i work do:**
+- 📦 minecraft modpack development
+- 🖥️ self-hosted homelab — Jellyfin, Home Assistant, Docker, and more
+- 📖 ttrpg design & writing
+- 🎮 gaming
+ ---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**contacts and such:**
+- 🌐 [choomb.com](https://choomb.com) — everything in one place
+- 🔑 [gpg key](https://github.com/choombdev/choombdev/blob/main/pub_gpg_key)
+- 📧 choombdev@gmail.com
+- 💬 discord: choomb
